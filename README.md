@@ -8,3 +8,5 @@ This repository was made to maintain all task during the virtual internship. The
 - Stock Market prediction and forecasting using stack LSTM
 - Music Recommendation
 - Exploratory Data Analysis on Dataset - Terrorism
+
+![image](https://github.com/Kyl67899/lgmvip-data-science/assets/35744262/8b2336d3-4c08-4947-a286-26ef321982da)
