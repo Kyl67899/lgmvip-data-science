@@ -5,7 +5,9 @@ ________________________________________________________________________________
 This repository was made to maintain all task during the virtual internship. The 4 task were completed with Python.
 
 - Iris Classification using Machine learning
+  
 - Stock Market prediction and forecasting using stack LSTM
+  Video: https://www.youtube.com/watch?v=pfHUPqNPlaI&t=8s
 - Music Recommendation
 - Exploratory Data Analysis on Dataset - Terrorism
 
