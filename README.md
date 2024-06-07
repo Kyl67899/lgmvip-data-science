@@ -12,7 +12,7 @@ This repository was made to maintain all task during the virtual internship. The
   Video: <a href="https://www.youtube.com/watch?v=pfHUPqNPlaI&t=8s"> Video </a>
   
   Slide: <a href="">Stock Market Analysis</a>
-### Music Recommendation: File is to big
+  
 ### Exploratory Data Analysis on Dataset - Terrorism
   Video: <a href="">Iris Analysis</a>
   
